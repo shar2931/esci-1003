@@ -1,0 +1,473 @@
+Feb. 19, 2024
+Theropods
+Among the earliest dinosaurs, definitely the last dinosaurs (birds)
+Ancestral theropods primarily predators, but they diversified over time (by the end of the Cretaceous)
+Birds further expanded the diversity of theropods
+
+Analogies for land terrestrial predators: cats, dogs, hyenas (the big land predators today)
+Differences between theropods and mammal predators?
+	- Size: Not as great a difference as is often made out
+		Many theropods were small and many prey animals were larger than today's prey
+
+	- Feathers vs. Fur: Huge difference
+		Feathers have many uses, including brooding, stability, and eventually flight in birds
+	
+	- Continual tooth replacement: Moderate
+		Saber-toothed cats had to be careful with their teeth because they only had two
+
+	- Hollow bones and bird-like lung and air sac system: Theropods breath through their bones as well
+		Mammalian lungs: air moves in and out in two-way motion, no oxygen taken in during exhalation
+		Avian flow-through system: Air moves in one direction and is temporarily stored in air sacs
+		Air in air sacs allows oxygen to be taken in during exhalation
+		Greater efficiency allows flight and breathing at high elevation
+
+	- Egg laying vs. live birth: Major difference
+		Mammalian live birth means that many species have inherent chauvinism, with one male mating with many females (harem)
+		Most birds do not have harems, and some that do have a dominant female with many males
+		Easier to have two birds take care of one nest
+
+	- Bipedal locomotion: Major difference
+		Some smaller theropods may have had wing-assisted incline running or flight
+
+Differences between extinct theropods and birds?
+So much of modern birds' lives revolve around flight or their ancestors' flight, so they're not always the best analogy for dinosaurs
+
+All theropods share the same basic blueprint because it worked really well for predation
+Amongst all dinosaur groups, theropods are most conservative in their design
+	- Skeleton: 
+		Lightly built (gracile) bones
+		Even bigger forms like Allosaurus look huge from the side, but from above they are actually very sleek and narrow
+		Pneumatic (hollow) vertebrae, limbs
+		Hollow bones is why Owen could predict moas' existence from a single hollow bone fragment
+	- Lungs:
+		Reduce weight, which increases speed, but most importantly they are part of bird-like flow through lung system
+		Avian-like respiration also helped in heat-shedding
+
+	- Limbs:
+		Rear limbs have runner proportions (short upper bones, long lower bones, extended ankles)
+		Digitigrade stance leads to running on the bottoms of the toes, which extends the length of the leg and thus the stride and speed
+		Despite T. rex's short arms (and some other large theropods), most smaller theropods had long forelimbs
+		Younger T. rexs also have long arms, but at about 10 years old, their body goes through a growth spurt that skips the arms
+		Compsognathus -> Sinovenator -> Archaeopteryx; forelimbs get progressive longer and longer
+
+	- Skull:
+		Skull is typically thin boned with numerous openings and flexible design
+		Even in Allosaurus, much of the skull is hollow
+		This is to provide flexibility when biting into struggling prey
+		Not all theropods had this though -- T. rex had massive jaws to kill prey in one bite
+
+	- Eyes:
+		Most theropods probably had stereoscopic vision with (almost) forward-facing eyes (in order to determine distances)
+
+	- Brains:
+		Relatively large brains for social skills and possibily social interactions (hunting in packs)
+
+	- Jaws:
+		Vertically oriented jaws to withstand bite pressures
+		Just like how boards that support a ceiling aren't on their flat end, they're on their side so that they don't bend as much
+		Space for continual tooth replacement
+	
+	- Teeth:
+		Teeth typically sharp with serrated edges and complete enamel coating for added strength
+		Deep sockets, strongly rooted
+		Most were blade-like, but not all (T. rex teeth were spear-pointed instead)
+
+	- Feathers:
+		Smaller theorpods likely had feathers, which indicates endothermy
+		Feathers are among the most complex integumentary structures, but they didn't start out that way
+		Feathers originally did not evolve for flight
+	
+		Earliest feathers were hollow tubes, and looked very hair-like
+		Tubes evolved into a barb cluster
+		Then, barbs base fused to form rachis or barbs formed branching barbules (unclear which came first)
+		Barbules evolved interlocking hooks to form flat vanes)
+		Lastly, feathers became asymmetric for powered flight
+
+		Feathers likely arose for insulation
+		Also likely used for social displays and sex identifications
+		Used for brooding, trapping body heat against the nest
+		Camoflauge, courtship rituals, even for burts of speed (especially up inclines, as feathers could drive arms down)
+		Feathers could also be used for subduing prey, allowing dinos to balance on struggling prey
+		Only one line of theropods ended up using feathers for flight
+
+		Most large theropods had scales, but some may have had feathers
+
+	- Reproduction:
+		Theropod lines supply most direct evidence of parental care
+		Many fossils have been found in a brood position over nests
+
+Theropod Groups:
+Classification? Within group, relationships are often debatable due to groups' overall poor taphonomy
+At present, Eodromaeus is the earliest known theropod, and Ceolophysoidea were among the earliest theropods (with feathers!)
+
+Scores of Ceolophysis found in Ghost Ranch at New Mexico
+Originally interpreted as evidence of large pack behavior, but now reinterpreted as animals gathering at water holes during drought later buried by flash floods
+Georgia O'Keefe may have been inspired by Coelophysis fossils at Ghost Ranch
+An archosaur found with Coelophysis at Ghost Ranch named Effigia okeeffeae
+
+Early Jurassic: some theropods got larger, such as Dilophosaurus
+Unlike in Jurassic Park, it didn't have a crest or spit poison -- it didn't need to because it was the largest predator of its time
+State dino of Connecticut despite no fossils being found there
+
+Middle Jurassic: theropods dominated by two groups: tetanurae and certasauria
+	
+Tetanurae (stiff-tails):
+	Dominate northern continents
+	Most abundant and diverse group, from hummingbird-size to some of largest land predators
+	Birds are included in this group
+	Group name arises from tendence for tail vertebrae modifications
+	Long processes on distal tail allow shifting of tail weight quickly, which allows for quicker running
+
+	Some lines developed retractable talon on foot, coupled with adapations for leaping and kicking
+	Velociraptor had long stiff tail and talons
+	Protoceratops and Velociraptor fossils found in a fight with each other
+
+	Some evidence of pack attacks on larger prey
+	Montana: Large dinosaur was kiled by Velociraptors, but a number of sickle claws was found near the prey fossil indicating several velociraptors present
+
+	Ornithomimosaurs (bird mimic reptiles) thought to look like ostriches
+	Similar shape and size, but with long arms and tails
+	Long tail allowed Ornithomimus to run with its full leg, meaning it could go even faster
+	Light, delicate skull without teeth
+	Often assumed to be omnivores, and had a keratin beak which helped to stabilize skull bunes
+
+	Limusaurus
+	Young had teeth, but adults lost their teeth and developed a beak instead
+
+	Oviraptorosaurs look like Ornithomimosaurs from the head down, but had different head
+	Short snout, very powerful jaw, and a rigid rib cage similar to modern birds
+	Bone in throat area similar to that of modern egg-eaters, but many alternatives possible
+	However, its beak could be used to catch quick, agile prey like rodents or lizards
+	It could be a brooding animal and an egg-eater
+	Big, powerful beak could also be used for breaking shellfish shells or nuts or seeds
+
+	Therizinosaurs
+	Long neck, stout torsos, immense unguals (claws) on hands
+	Claws seem like they could be used to kill prey
+	Jaws and teeth differ from those of a typical theropod
+	Thin jaws, not super sharp teeth
+	Hips: pubis bone is beginning to become parallel with the ilium like ornithiscians, not like most theropds, which would increase gut area
+	One analogy for therizinosaurs is large ground sloths, which also had big claws. They used their claws to dig up tubers and pull branches down
+	Another analogy is ant-eaters; termites did arise in the Cretaceous
+	However, if Therizinosaurus was eating ants and termites it wouldn't have needed the big guts
+	Therizinosaurus was a huge animal
+		
+###################################################################################################################################################################
+Feb. 21, 2024
+Big Theropoda
+By Cretaceous, theropods are exploring other diets and lifestyles, but their ancestral condition and dominant lifestyle was predation
+By Mesozoic, predation was nothing new to Earth's terrestrial ecosystems
+Silurian period had the first terrestrial ecosystems, but was entirely dominated by predators and scavengers -- nothing ate live land plants
+Took time for non-detritus feeding animals to evolve to digest land plants
+
+Number of different large theropods during Jurassic and Cretaceous suggests a huge prey base
+Had differences in hunting styles and targeted resources -- "niche partitioning" (like cheetahs and lions in same environment)
+Spotted vs. striped hyena: striped are nocturnal and scavenge, spotted are diurnal and predate
+
+Allosaurus (Jurassic):
+Allosaurus skull is very lightly designed despite its size, giving it flexibility when it bites something
+Some possible evidence of parental care
+Trackways show packs of Allosaurus-sized hunters
+
+Tyrannosaurus (Cretaceous):
+Tyrannosaurs came in a variety of sizes
+Both T. rex and Triceratops both descended from Eurasian immigrants
+In the case of T. rex, its Eurasian ancestor Moros intrepidus was only about 1 meter tall and weighed ~78kg (96 MYA, Utah)
+Within 15 million years, T. rex is 4 meters tall and 7000kg. How?
+
+Middle Cretaceous has a relatively poor rock record, but may have been a time of high stress and lot of extinction events
+Period of ocean anoxia led to the death of many marine species including Ichthyosaurs (possibly tied to seafloor volcanism, weak overturn due to warmer climate)
+In terrestrial ecosystem, extinction events got Carcharodontosaurus, then the apex predator of N. America
+Opened a niche for T. rex
+
+Adolescent T. rex had a very different design than adult
+Leg proportion designed for rapid running
+Arms bigger for the body than adults
+Skulls are more reminiscent of an Allosaurus skull (young, more gracile, with slender jaws)
+Even within T. rex, we may be seeing niche partitioning
+Each age (and T. rex may have only lived 30 years) utilizes different resources
+
+T. rex is not the most typical theropod (as with many famous members of a group of dinosaurs)
+It originally seemed to be so unusual that a debate arose about if it was a predator or a scavenger
+Dr. Jack Horner (basis for Alan Grant) was a fervent proponent of the scavenger theory
+Dr. Robert Bakker (basis for Burke in JP2) was a proponent of the predator theory ("roadrunner from hell")
+
+Heavier build than most theropods. What does that mean in terms of speed?
+Long powerful legs, but not clearly a runner design
+For T. rex, a fall running at 35 mph would probably be fatal
+T. rex's legs were so long that it didn't need to run super fast, it had long strides
+
+Arms?
+Used for balance when getting up from sleep? Sexual purpose?
+It turned out that short arms weren't that rare, and that T. rex arms are only really short in the adult form
+Arms also had powerful extensor muscles and elbow flexors to hold onto struggling prey
+In adult T. rexs, head becomes huge (and consequently the neck, which attaches to the shoulder blades)
+Arm muscles stay the same size to accomodate for the neck muscles getting big
+
+Adult skull design different from Allosaurus and many other large theropods
+T. rex skull doesn't have much empty space, a lot heavier bones and much wider
+Relatively small eyes for skull and large nostrils (suggests a scavenger)
+But it also had best stereoscopic vision of most theropod dinosaurs (and most birds save owls)
+Had larger than expected brain given its body size (comparable to chimpanzees?), which suggests predatory nature
+
+T. rex teeth are unusual for a theropod -- large and deeply rooted, but not sharp or blade-like in shape
+Serrated teeth may have trapped food particles which would then rot, making a T. rex bite septic (like Komodo dragons were thought to do)
+But we now know that Komodo dragons use venom
+While a septic bite is still possibly, the serrations strengthen the teeth to reduce breakage, allowing T. rex to power through flesh and bone
+'Puncture-pull feeding'
+
+Scanvenger or predator is not necessarily a dichotomy
+Recent studies suggest at least a partially predatory lifestyle
+Hadrosaur fossils show healed injuries from T. rex attacks and healed puncture wounds in skin impressions
+
+If there are so many large theropod predators, why are they different?
+
+Allosaurus vs. Tyrannosaurus rex
+Hunting styles: Allosaurus had blade like teeth and light weight skull with give ('hatchet-like attack'), and possibly a pack hunter
+T. rex had spear-like teeth and a heavy weight skull with no give, and likely a solitary hunter relying on power of bite
+T. rex had an immense bite, but still lower than Cretaceous crocodiles (and Megalodon)
+
+Recent evidence suggests that the closest relatives of Tyrannosaurs (Albertosaurus) were pack hunters
+
+Sue
+Larson brothers in the Black Hills of South Dakota wanted to have their own museum, and became fossil-hunters
+Black Hills Institute
+Larson brothers found Sue, one of the most complete T. rex finds
+Rumors began to grow that Sue was worth millions (though this wasn't realistic)
+Legal dispute over whether Sue belong to the Larson brothers, the landowner, or the Cheyenne River Reservation
+Led to Sue being taken into 'custody'; court case decided in favor of the landowner
+Original interpretations of Sue differ greatly from current understanding
+Sue's greatest legacy is the impact on dinosaur studies; politics, legal restrictions, and fees just to excavate on people's land
+Universities and museums don't usually have the budget to do that -- curtailed dinosaur exploration except on public land
+
+Stan is an even bigger T. rex than Sue, and sold for $32 million. Because of the cost of fossil hunting, it is being more and more restricted
+
+Hunting styles:
+Spinosaurus is over 15 meters long, bigger than T. rex
+Many of the original Spinosaurus fossils were destroyed during World War II bombing
+Sharp teeth, long head, look like crocodile teeth
+Spinosaurus may have been almost completely fish-eating
+No hint of calcified tendon in Spinosaurus tail, wide lateral processes
+Tail would've been flexible, possibly useful for swimming
+The sail may have been used similarly to a sailfish, herding fish
+
+Baryonyx may have been a possible quadruped, similar to grizzly bears
+Spinosaurus may have been almost fully aquatic
+
+##################################################################################################################################################################
+Feb. 23, 2024
+Invasive Species
+
+Permian extinction was biggest mass extinction in Earth's history
+Massive volcanic eruption starting in Siberian Traps
+Acid rain, acidification of oceans killed plants on land and sea
+Volcanism caused Carboniferous coal beds to ignite, releasing over 3 trillion tons of CO2 and methane and raising temperature by 8C
+Since coal is not clean-burning, tremendous amounts of sulfur were also released
+
+It was not just volcanism but Pangea itself that made the Permian extinction so deadly
+Single supercontinent = global terrestrial community, decreased global diversity, increased vulnerability to high-stress event
+Modeling suggests that a supercontinent could only support 2/3 of modern mammal species and 1/2 the number of bird species
+We're recreating a global terrestrial community via human transportation and invasive species, which means decreased biodiversity
+
+Although there were a few rabbits that came to Australia on the "First Fleet," it wasn't a problem until 1859
+Thomas Austin released 24 rabbits on his estate for hunting purposes
+Within 10 years of their introduction, 2 million rabbits were shot every year without any effect on rabbit population
+Led to loss of crop and grass cover, increasing soil erosion and killing lots of native plants and animals
+1901 - 1907: 'rabbit-proof' fence
+Encouraging hunting and poisoning efforts had little success
+Austin was a member of the Acclimatization Society of Victoria -- goal was the deliberate introduction of non-native species thought to be useful or picturesque
+
+1890: Eugene Schieffelin released 60 European starlings in Central Park, and 40 the next year
+These birds should've died in morning snow and sleet, but they found refuge in the eaves of the American Museum of Natural History and survived the winter
+Starlings are better than other birds at finding insects in colder climates, and that means they don't have to migrate in the winter
+They can find the best nesting sites because they don't have to leave in the winter
+200 million European starlings in North America, 1/3 of the birds' global population
+Range from Alaska to Northern Mexico
+
+38 years earlier, Schieffelin had successfully introduced the house sparrow to control the ravages of the linden moth
+At one point, there were 500 million sparrows in North America (now down to 75 million due to habitat destruction)
+
+Other invasive species are so well-adapted that we don't think of them as invaders
+Dandelions (native of Eurasia, brought on the Mayflower), ring-necked pheasants (native of China)
+Non-native vs. invasive can be a matter of perspective
+
+Of the 182 types of earthworms found in the U.S. and Canada, nearly a third are invasive species
+In Minnesota, all earthworms are invasive species
+Worms break up compact soil to allow air and water to move through soil and increase cycling of nutrients
+But this is why they're so bad for forests
+Recent ice sheets wiped out earthworms across Northern North America
+Northern boreal forest evolved in completely earthworm-free conditions, and were characterized by a thick layer of decaying organic matter
+Other plants began to rely on that organic matter, and animals on those plants
+Earthworms can break down this matter
+The understory and diversity is lost as earthworms become abundant
+Break down surface organics and move nutriends down into deeper soil, out of reach of native plant species
+Invasive species that can tolerate low-nutrient conditions then move in, but there aren't many of them, lowering overall biodiversity
+
+Why can invasive species be so successful?
+
+Enemy release -- introduced species leave rivals or predators behind
+Purple loosestrife (from Eurasia), introduced to east coast of North America accidentally through sand ballast of ships
+Spread along roads, canals, and ditches, and later introduced as an ornamental plant
+A single plant can produce millions of seeds annually, forming really dense strands that reduce water flow
+Makes wetlands unsuitable for a wide range of wetland animals and replaces many native plants
+In Eurasia, a number of insects kept loosestrife in check. Without them, loosestrife exploded across the landscape
+
+Naive species -- ones that have no experience or defense against invasive species
+Brown tree snake (from Australia, Indonesia, and Papua New Guinea), introduced to Guam as a hitchhiker on a cargo flight
+Before its arrival, Guam had no large snakes and no arboreal ones that would be near bird nests
+9 of the 11 species of native forest-dwelling birds have been driven out of Guam
+It has also wiped out 2 of 3 native bat species that have a role in pollination
+
+Novel interactions -- sometimes the invaders are pathogens. A new disease is introduced that native species have no immunity against
+American chestnut tree (4 billion trees to nearly extinct in 1916)
+They were the 'redwoods' of the Appalachian mountains, up to 30m tall and 3m across with edible nuts that could be ground for flour or roasted
+Chinese chestnuts brought to U.S. were resistant to a certain fungus that they were attached to, as they had co-evolved with the fungus
+American chestnuts had no immunity to the fungus
+Saplings can sprout from old roots, so American chestnuts still grow, but they grow with the blight and never grow large enough to flower and seed
+Functionally extinct because it can't reproduce anymore
+
+Most introduced species fail to take hold -- only 5% to 15% survive, and only 1% spread
+That 1% can have huge impacts, and the number of yearly encounters is huge
+Estimated 10,000 species are moved about the world in water ballast alone
+Before humans arrived, Hawai'i gained a new species every 10,000 years
+Now, it gets about one every month
+
+Giant African snail (introduced to Hawai'i in 1936 as pets for schools)
+But during the summer, many teachers would let the snails out in the wild in order to not have to take care of them
+Once at large, it damaged crops
+So they brought in a rosy wolf snail, a predator of the giant African snail, in order to attempt to control the population
+But the wolf snail found it easier to eat smaller, native snails -- 90% of Hawai'i's native snails are extinct
+
+Most successful invasive species are humans, domestic pets, and domestic crops
+Many species adapted to humans, like coyotes and turkey vultures
+Remixing of world's flora and fauna began with early human migration, but has accelerated dramatically
+Decreased biodiversity combined with climate change
+
+Between 1947 and 1956, 6.5 million coyotes were killed in the U.S. and we currently kill 500,000 a year
+"War with coyotes"
+Coyotes were originally found in the western prairies, but now extend across the continent
+Coyotes evolved alongside larger wolves -- predators, but not apex predators
+Coyotes had to become highly intelligent and remarkably wary because if it wasn't careful, it might get killed and eaten by wolves
+
+Despite the 'lone wolf' reputation, wolves are almost exclusively pack animals which is why they were easier to kill
+Unlike wolves, coyotes evolved fission-fusion societies. Social packs come and go depending on what's necessary
+Elephants, chimpanzees, and humans also have fission-fusion societies
+In response to population density, coyotes can alter their litter size from 2 to as many as 19
+Coyotes are unusual because they're socially monogamous (only 3-5% of mammals are) and sexually monogamous (even fewer mammals are)
+
+Virtually every large American city had coyotes by the year 2000
+125 years ago, packs of wild or nearly wild dogs roamed American cities which kept coyotes at bay
+In first few months of 1848, ten people died of rabies -- Great Dog War
+Cruelty against dogs is where the ASPCA comes from, but eventually the stray dog packs were removed from cities
+Coyotes do better in urban environments than in rural environments
+First we created an ecosystem, and then freed up a niche, providing a refuge for an invasive animal already adapted to coping with alpha predators
+
+####################################################################################################################################################################
+
+Feb. 28, 2024
+Sauropoda: 'lizard foot'
+Marsh believed that sauropods lived mostly in the water because of their size
+During Cretaceous, sauropods are the dominant land animals in the Southern continents
+Went extinct in North America during the Jurassic
+
+Antarctica is the only continent with known sauropod fossils, but it does have Glacialisaurus, a basal sauropodomorpha similar to Massospondylus
+During the Cretaceous, Antarctica had a climate similar to Oregon or Washington today
+Largest known land animals -- greatest number of adaptations to reduce weight yet maintain support
+Some sauropod tracks are 1.7m wide, suggesting its height is 5.5m at the hip
+
+Immense size minimizes range of innovation possible
+Relatively small skulls and brains
+Erect elephant-like limbs without marrow cavities
+
+Sauropods had huge areas for digestion along with saurischian-style hips
+Despite their size, sauropods still laid eggs in nests
+Some repeatedly used the same communal nesting sites (site fidelity)
+Eggs tend to be spherical and aren't immense
+Have porous, thick shells (protection and breathing)
+Remnants of vegetation often found in nests (to incubate eggs, as animals were too large to brood)
+At one Argentina site, sauropods relied on geothermal springs for nesting incubation
+
+Some species apparently raised young in nests for at least some time
+Tracks showed that young traveled with adults for some time
+Brontomerus ('thunder thighs') had unusaully heavy thighs that might have been for defense
+
+Not all sauropods shared the same herd structures
+For example, high browsers would have herds of juvenile sauropods moving by themselves because they can't access the same food as adults
+Growth rates remain uncertain -- current bone studies suggest that 90% of growth occurs in first 10 years of life
+
+Unlike theoropods, sauropods show little evidence of injuries or health issues apart from some fusion of vertebrae and calcification of cartilage
+When you're really big, any injury is likely to be life-threatening. So any injured sauropod would not have survived long enough to heal
+
+Although being big improves your chances of making it into the fossil record
+Being too big makes it less likely that your fossils are collected and studied
+Time and expense involved means that sauropods are less well studied
+Can do dozens of small dinosaur digs in the same time it takes to do one sauropod dug
+Complete finds are rare as it is difficult to bury such a big animal
+
+Argentinosaurus
+Titanosaurus at AmNatHistMuseum -- 37 metters long, 63.5 metric tons, too heavy to even mount so they needed 3D printed mount
+But this is still a juvenile specimen
+Europasaurus -- lived on an island, so was pretty small (only 6 meters long). But it was still the biggest animal in its ecosystem
+
+Estimates of weight are notoriously poor
+Increasing size creates some interesting effects
+As animal increases size, compressive strength of bone quickly becomes a limiting factor
+Two crucial problems with increasing size -- weight bearing and shedding heat
+Getting enough food is not typically an issue -- it may be the driving force behind being big
+Bigger size means access to food that others can't eat
+
+Load-bearing adaptations
+Robust limb bones -- thicker proportional to size (and stress)
+Vertical limb designs with few angles
+Weight-breaing hands and feet with near-unguligrade (tiptoe design)
+Why retain claws? We used to think they were there to avoid slipping in mud, but this is probably wrong
+Our best guess right now is that claws were used to dig nests
+In some forms, the hands become much more elaborately designed than the feet do
+Back feet have big, circular heel pads, front feet have more of an arc from the toes
+Titanosaur hands lacked claws and digits -- it walked on its metatarsals
+Four fused sacral vertebrae in order to support hips more
+
+Load-lightening applications
+Small, light slender skulls
+One of two basic plans: elongated skulls with simple peg-like teeth, designed for raking vegetation in at front of mouth
+Or rounded skulls with shearing teeth
+Sauropods did not chew their food
+Camarasaurus replaced tooth every 62 days, Diplodocus every 35 days, Nigersaurus every 14 days
+Eating tough, fibrous land plants
+
+Simple ball and socket articulation where skull attaches to the neck means skulls are easily lost
+Sculpted vertebrae and pneumatic (hollow) bones especially in the neck
+Same avian flow-through respiratory system
+Don't lie down
+
+Problems with big size
+Heat loss and blood pressure are problems for large animals
+Necks can be up to over 15m, 6x longest giraffe neck
+Giraffes' tight skin is an adapatation to help maintain high blood pressure to head
+Giraffes get most of their water from the food they eat because bending over to drink water is dangerous
+Getting food is the driving force behind large size rather than a problem resulting from it
+
+1m: lots of theropods and some very selective herbivores (ones that just eat seeds for example)
+6-9m: Some theropods but lots of herbivores (stegosaurs, hadrosaurs, ceratopsians, ankylosaurs)
+9-15m: a few theropods, but mostly larger ornithopods and smaller sauropods
+15m: only sauropods
+
+25,000 years ago, the white-tailed deer was the 29th largest North American mammal. Now it's the 9th
+Humans have killed many large animals
+Paraceratherium (extinct rhino) was the largest terrestrial mammal -- as tall as a giraffe and stocky, but only the size of the smaller sauropods
+Might be the largest land mammal possible due to mammal-size respiration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				       

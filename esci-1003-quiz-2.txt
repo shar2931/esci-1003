@@ -1,0 +1,451 @@
+Feb. 05, 2024
+Middle Triassic World
+Early mammals and early dinos arise at the same time
+
+In the Jurassic, Pangea starts breaking up, but many connections remain and even breaks are all fairly recent
+Faster plate motion -> warmer climate
+Global dinosaur community -- any group that arises can spread across the whole world
+By late Jurassic, northern continent and southern continent separated but internally connected
+Stegosaurs found all across the world
+
+Cretaceous (145 MYA - 65 MYA)
+Final breakup of Pangea (with exception of South America and Antarctica)
+Increased diversity of land community due to separation of continental masses
+For example, horned certopsians only arose in North America
+Late Cretaceous (90 MYA) -- high sea levels because of rapid sea floor spreading, which occurs ~100 MY after supercontinental breakup
+Up to 1/3 of present land area submerged
+In North America, seaway covers western MN to eastern Rockies
+
+1. higher sea level means warmer Earth because water more easily absorbs solar radiation than land
+	Greenhouse Earth; no evidence of glaciation anywhere, only 20C difference from pole to equator
+	plants and reefs found 15 degrees poleward of present positions
+	tropical zone extends to 45 degrees N/S
+2. pattern of ocean current transported more heat to poles
+	Geography, ocean and atmosphere circulation also part of the picture
+	plate tectonics can affect global climate by affecting ocean current circulation
+	ocean currents and their overlying moist air transfers heat through the climate system
+	about 3 MYA, isthmus of Panama formed and N/S America connected
+	this created North Atlantic current, and also triggered an Ice Age
+	Tethys Sea
+	nowadays, Antarctica is isolated by a cold current ring but this was only recently formed
+	in Mesozoic, Antarctica was completely ice-free
+3. higher CO2 from more volcanism
+	increased CO2 leads to more greenhouse warming but also more O2
+
+By late Cretaceous, continents have moved far enough apart to form new connections
+Sauropods had been extinct in N.A. from the Late Jurassic to the Late Cretaceous
+But by the very late Cretaceous, some sauropods travel to N.A. from S.A. and some hadrosaurs make the reverse journey
+
+Fossils are any evidence of past life
+By necessity, we must interpret fossils from a very incomplete data set
+Body fossils are any remains of an organism (including casts and impressions)
+Trace fossils are any other evidence of past life (tracks, trails, burrows, eggs, nests, coprolites)
+Trace fossils represent fossilized behavior
+
+Earliest evidence of life?
+Body fossils: found 3.5 BYA show remains of algal colonies
+Trace fossils: 3.9 BYA, isotope ratios in carbon seams suggest photosynthesis
+
+Plankton provides most oil/gasoline
+Fossil record is not a faithful record of all organisms
+Many parts of an organism are never preserved (brain, e.g.)
+Many groups of organism are seldom to never preserved (jellyfish)
+Many environments are seldom to never preserved (mountain ranges are subject to frequent erosion so sediment buildup doesn't occur)
+Other environments are disproportionately represented (swamps)
+Marine settings are generally better than land (unless you get too deep)
+
+In modern North America, organisms on the Gulf and Atlantic coastal areas have the best chance of making it into the fossil record
+
+Taphonomy (laws of burial) -- study of all processes that occur in an organism from the time it dies until it is found as a fossil
+Attempts to understand what is and is not preserved
+Classic idea of fossilization -- dinosaur dies, decays a little bit, and bones become preserved
+This is very rare
+
+Fossilization process:
+Death, decay/scavenging, transport, burial, lithification, uplift/exposure, discovery (?)
+At every step of this process, information loss can occur
+Preventing information loss
+
+If you want to be a fossil:
+1. Have lots of hard parts
+2. Be big (but not too big so that there's enough sediment to bury you)
+3. Be buried rapidly to prevent scavenging
+4. Die near an anoxic setting to limit aerobic bacteria (lagoon, swamp)
+	Berlin archeopteryx and Chinese dinosaurs, both with feathers preserved, were both found in lagoons
+5. Where you live matters and how you die matters (predation, parasites/disease, dehydration or drowning, accidents, age)
+	Coelophysis -- many of these small predators found near an ancient river system in Ghost Ranch, New Mexico
+	Many people thought that they might be social hunters which is why they were near a river
+	When bones of smaller ones were found in bigger ones, interpretation shifted to cannibalism
+	Ray Rodgers of Macalaster realized that these river beds were the last vestiges of water left during a drought
+	What looked like cannibalism was simply ones bones falling on top of another after death
+6. What happens after you die matters
+	Scavenging (large like hyenas and vultures, small like beetles, microscopic like bacteria)
+	Beetles are used to clean bones before they are displayed
+	2 million deer in MN & WI, all males shed antlers annually, ice retreated from area 10,000 years ago
+	Mice and other rodents eat deer antlers to get calcium
+
+####################################################################################################################################################################
+
+Feb. 07, 2024
+Taphonomy and Zombie Apocalypse
+Even after death, the skin does a pretty good job of keeping things out of the body
+Within 48 hours, zombies can't see, hear, or smell [due to maggots and other parasites entering body orifices]
+
+Sequence of information loss
+Softest tissue (organs and skin) decompose first
+Tendons and ligaments go next
+Bones (or shells) follow
+Teeth are last
+
+Dinosaur teeth are useful, but not as useful as mammal teeth
+Their teeth are denser and harder so they do survive
+Continual tooth replacement means there are lots of dino teeth
+But because they're continually replaced, they're not as specialized
+So they're not diagnostic of species or genera in the same way mammal teeth are
+
+Losses can be reduced in stressed environments (low biological activity)
+Tollund Man (2300 years old) was found in a bog in Denmark, super well-preserved
+Arid environments (like Taklamakan Desert) also make good environments for well-preserved mummies
+Egypt's mummies owe more to their environment than human preparation
+Cold conditions: La Doncella in Andes, Otzi (5300 years old) in the Alps
+
+Taphonomy in communities is even more complicated
+Do the remains represent a single community or just one? (For example, many different animals visiting a water source)
+Post-death transport can also make it seem like animals lived together when they didn't
+Dinosaur National Monument appears to be the accumulation of remains at a river bend, rather than one community of dinos
+
+What might be fossilized?
+Trees: petrified wood, bark impressions, needles/pinecones, root casts, soil, sap (amber), pollen
+	Of these, pollen is most likely to be fossilized
+
+Birds: bones, feather impressions, tracks, feces, nests
+	Of these, tracks are the most likely to be fossilized and guano is second most likely
+	Bones are too hollow/light to fossilized and feathers have to have perfect conditions
+
+Mice: bones, teeth, fur, tracks, feces, burrows, gnaw marks
+	Of these, teeth and gnaw marks are most likely to fossilize
+	Teeth are very strong
+
+Humans: bones, teeth, hair impressions, tracks, feces
+	Technology and tool trace fossils are most likely to be preserved in the fossil record
+
+What's more likely to fossilize:
+Bird vs. Cow: Cow would be more likely to leave a fossil record due to size and thick bones
+
+Mountain goat vs. Orangutan: Orangutan is more likely to fossilized because mountain is eroding away, despite the bio activity in the jungle
+
+Lion vs. Wildebeest: Lot more wildebeests than lions, so wildebeests are more likely to fossilize
+
+Hippo vs. Rhino: Hippo lives in a river so it's more likely to fossilize
+
+Bat vs. Mouse: Mouse is more likely to fossilize because the bat is flying and has hollow bones. Mouse bones are already on the ground
+
+Earliest hominid ancestors vs. Gorillas and Chimpanzees: Hominids due to tool use
+
+Early Triassic: Low sea level -> slow plate motion -> erosion dominates over deposition -> land fossil records are poor
+Late Cretaceous: Fast plate motion, shallow inland seas, more deposition on land
+Best fossil records tend to occur in rift valleys
+
+Much of taphonomy involves loss of information, but is also a source of information
+Teeth marks suggest diet and behavior -- spacing of teeth tracks on sauropod bones match Allosaurus teeth
+Ammonite fossils found with holes match Mosasaur tooth marks
+
+How deep was the Cretaceous seaway? A lot of people thought it was very shallow
+As ammonites die, they sink into the water, and eventually the shells implode due to water pressure
+Ammonite studies actually showed that the sea must have been thousands of meters deep at points
+
+Post-Cretaceous small rodent radiation: early paleontologists thought there was an explosion of rodents after KT extinction
+But others noticed that types of rodents hadn't increased, only number of rodents found
+This suggested the evolution of owls, which eat rodents and enter them into the fossil record through owl pellets
+
+Not everything in the fossil record is taphonomy, which is what happens after death
+	Healed wounds, evidence of pathology of sickness
+	Sue the T. rex had trichomoniasis parasite which caused holes in its jaw
+
+Variety of dionsaur finds originally interpreted to be different genera were later interpreted as ontogeny (growth stages)
+15 genera of triceratops just turned out to be 15 different stages in the life cycle
+Some have even suggested that Triceratops is just a young version of Torosaurus
+
+Sexual dimorphism can also give the appearance of different fossils
+Dinosaurs also had sexual dimorphism but it's unclear which sex was larger
+
+Dinosaurs were usually depicted as grey-green or green-gray (like elephants or rhinos)
+Birds are more colorful than mammals, so were dinosaurs also like that?
+2008: fossilized melanosomes found in feathers (like iridescent black of ravens and crows)
+Evidence suggests that feathered dinosaurs had some color
+Even non-feathered dinosaurs may have had color
+
+History is biased towards cultures with written records and are usually not objective
+
+China-Mongolia border: statue of two dinosaurs kissing
+Elephants prefer to have sex in the water because it provides more buoyancy and less risk of falling
+But elephants have almost insignificant tails
+Early paleontologists noted common healed sacral vertebrae fractures, which they thought was related to dinosaur sex
+Beverly Halstead: Was fascinated by the topic and even wrote children's books on the topic
+
+But what about dinosaur courtship?
+Birds today have elaborate courtship dances
+Recent evidence suggests that dinosaurs also behaved similarly (dinosaur tracks scratched in the ground)
+
+#################################################################################################################################################################
+
+Feb. 09, 2024
+Coal
+
+Peat -> Lignite -> Bitiminous -> Anthracite
+
+"Coal is portable climate" - Emerson
+Coal and the Carboniferous are linked
+Pangea starts coming together during the Carboniferous
+Significant part of proto Pangea lies near South Pole so there's an Ice Age
+Only about 5 major ice ages in Earth's existence (most recent one started 3 MYA and is ongoing)
+Sea level changes due to glacial cycles are much faster than those due to plate tectonics (thousands vs. millions of years)
+Upper Carboniferous Ice Age led to alternating shallow and deep deposits are stacked atop one another in the same area
+
+These deposits have iron ore, coal, and carbonate -- what you need for an Industrial Revolution
+Coal can be used to melt iron ore, carbonate acts as a flux to pull impurities out from melted iron
+Minnesota has tons of iron ore in the north and limestone in the south, but no coal and no way to bring the iron and limestone together in the Pre-Industrial world
+Great Britain had lots of these Upper Carboniferous deposits
+In the U.S., the upper Carboniferous is called the 'Pennsylvanian' because that's where the deposits were found -- that's why Pennsylvania was linked to steel
+One industrialized, nations could take advantage of other coal deposits (Cretaceous coal, etc.)
+But cyclic layered Upper Carboniferous deposits were crucial to get industralization started in G.B.
+
+Catholic Church held most of richest coal mines and only accepted short-term leases (surface mining)
+Deeper mines required expensive drainage systems because water would seep in
+When Henry VIII broke with the Church, he sold the land to private citizens which greatly expanded coal mining
+Henry VIII built the first English fleet, but Elizabeth I built the first English navy
+Big warships needed crews with lots of expertise
+Early coal ships were the largest English merchant ships; these served as the 'nursery' for the British navy
+Coal ship crews were the only ones with experience sailing large vessels, so they were critical for the navy
+
+1306: Edward I, public protests against coal use led to it being banned (due to smell, etc.)
+As population grew and forests were cut down, deforestation became driving force behind coal
+1603: Elizabeth I dies, coal was the main fuel source for the country
+1700: Britain is mining 5x more coal than the rest of the world combined
+
+Deeper coal mines needed water drainage systems
+Early on, water wheels and human/animal labor were used to power these drainage systems
+1712: Thomas Newcomen invented first stearm engine
+But it needed so much coal that the only place it was practical to use was in coal mines
+1776: James Watt revised steam engine (Bloomfield Coal Fields in Tipton)
+Coal brought to surface by human or horse power, but eventually they started using rails
+First Stephenson locomotive was built to transport coal to surface
+Steam engines and railroads both come directly from coal mines
+
+Reliance on waterpower previously kept most industries in rural areas (they had to be where waterfalls were)
+Coal-powered steam engines allowed industries to consolidate into urban areas
+1848: Britain producing more iron than rest of world combined
+Great Exhibit of 1851: Crystal Palace and Dinosaurs
+Waterhouse Hawkins also recreated the coal strata at the Crystal Palace exhibit because of their importance to Britain
+I.R. turned London from a village to a massive city
+
+All early gas lighting wasn't natural gas, but coal gas
+Coal was not a clean-burning fuel
+In order to maintain a draft, coal chimneys had to be narrower than wood chimneys
+They had to use kids to clean chimneys (under the age of 9)
+Children worked in coal mines from early on (small spaces)
+1920: Child labor in coal mines banned in U.S.
+Average starting age for a coal miner was 8
+Average life expectancy was 24 (compared to U.S. average of 49)
+
+Because of soot, wealthy homes stopped having tapestries on their walls and they had woodwork instead
+Difficulty of keeping clothes clean accentuated class differences
+Also the reason black became the standard color for umbrellas and formal wear
+Westerly winds led to wealthy living in western suburbs, and why East End of London was the poorest part of London
+
+As early as 1661, people began to warn of coal's impact on public health
+Estimated 1/4 of all London deaths were lung-related, and 1/3 of those occurred under the age of 5
+During Crimean War, 42% of urban poor of London were unfit for military duty (compared to 17% of rural poor)
+Lack of sunlight due to coal smoke, narrow streets, and lack of open spaces led to rickets becoming known as the 'English Disease'
+Some neighborhoods had 100% of children of affected, and a 1918 government report said half the population was affected by rickets
+
+Response was complicated by uncertainty over the main source of coal smoke: industry or domestic?
+Chimneys (often multiple) rose from every dwelling
+Folwell Hall has lots of chimneys, but most of them were decorative to make UMN look more productive
+Industrial sources were easy to target but were economically powerful
+'Thames above Waterloo Bridge' by J. M. W. Turner shows coal fog in London
+
+Britain had bituminous coal vs. anthracite coal (cleanest burning, takes longest to form)
+Coal hearth was center of British home
+1880: 3.5 million fireplaces in London
+London's 'fog' was mostly coal smoke pollution
+In Bleak House, after Dickens mentions the Megalosaurus, he mentions the coal smoke
+1676: Hooke estimated smoke over London to be 1/2 mile high and 20 miles wide
+1840s: Newspapers complied list of deaths and accidents due to fog-related collisions of boats, vehicles, and people
+Hundreds died from respiratory compliacations during particularly dense fog
+
+Londoners embraced their fogs. Peaked in 1880s, cultural identified with Victorian London
+Yellow haze comes from sulfur in bituminous coal ('pea-soupers')
+Claude Monet: Houses of Parliament in the Fog (came to London specifically to paint the fog)
+Yoshio Markino: 'Fog: Ladies Crossing Picadilly' (went to S.F. to paint fog, but it wasn't as consistent as London's)
+Daubigny: 'St. Paul's from the Surrey Side'
+
+Before refrigeration, Britain relied on split yellow peas so pea soup was yellow
+In the meantime, coal began to lose its clout to other techonologies
+Partially replaced by oil and natural gas
+Rise of central heating -- natural gas and electricity used to heat water
+Finally began to reduce domestic coal use
+1938: Less than half of domestic energy was coal (but was concentrated in poorer houses)
+1952: Really bad fog. Plays were canceled because audiences couldn't see actors on stage
+	12,000 people died, and over 100,000 were taken ill
+1940s: Pittsburgh was not far behind London's fogs
+1956: London bans soft (bituminous) coal burning and fogs disappeared for good
+
+All we've done is moved coal to rural electric generation
+U.S. east coast visibility is often 14 miles
+Without coal pollution, it would be 45 to 90 miles
+In China, India, and even the U.S., coal is still a persistent issue
+U.S. has 1/4 of the world's coal, but we've already used all the cleanest burning anthracite
+`
+Coal is behind acid rain and ocean acidification
+Ice ages 300 million years ago are all deeply linked to modern society
+Human activities have unforseen consequences
+At first there's considerable uncertainty about the problem
+Followed by resistance to proposed responses
+And successful responses only occur once they are recognized as being in everyone's best interests (like 1952 London fog)
+Finally, there's often an enduring legacy that is largely accepted or tolerated
+
+##################################################################################################################################################################
+
+Feb. 12, 2024
+Vertebrate Designs
+Most vertebrate skeletons are more alike than different -- basically all the same design
+Skeletons are more than bones -- combination of bone, teeth, ligaments, tendons, cartilage, and muscles
+Bones and teeth are the only ones with a relatively good fossil records, but sometimes we get lucky
+
+Iguanadon tail tendons and ligaments were calcified and preserved
+More commonly, the curvature of necks and tails give an indication of presence of tendons and ligaments
+After death, ligaments and tendons contract and shorten
+Spacing of bones can reflect cartilage, discs, or sternum
+
+Skin and its derivatives (nails, feathers, hair, hooves, and horns) are seldom preserved directly except for rare impressions or carbonized films
+Very well preserved Psittacosaurus and Nodosaurus
+It's hard to predict what all these soft tissues and non-preserved features looked like when making an impression of what a fossil looked like
+Cyclops legend might come from pygmy elephant / mammoth skulls found on an island
+
+Bone is a combination of mineral and organic matter
+70% by weight is calcium apatite, the rest is mostly collagen
+Apatite gives bone its stiffness and strength, collagen gives it flexibility and elasticity
+During taphonomy, collagen decays more rapidly than bone, and it becomes ages and becomes more brittle and porous
+Bone is filled by blood channels, marrow, and living bone cells
+After death, minerals from groundwater can fill pore spaces (perimineralization)
+
+In some adult forms, growth stops (like humans)
+We don't know if dinosaurs continually grew (like iguanas) or if they stopped growing at some point
+Bone cells can still precipitate new material due to injury or stress (such as healing after a bone breaks)
+Bone fusion of structural elements can greatly increase strength but at cost of mobility
+Owen's classified dinosaurs was by their fused sacral vertebrae
+
+Ceratopsians have 10-12 fused sacral vertebrae (even more than sauropods which were much bigger)
+Ceratopsians were more active and may have wrestled or otherwise used their hips, meaning they needed more reinforcement
+Birds have lots of bone fusion, strengthening skeleton while allowing hollow bones to minimize weight
+
+All vertebrate skeletons share the same basic design
+Same bones, just different shapes and sizes because of different lifestyles
+
+Human feet are big and floppy with small ankles, which aren't really designed for running
+Human hip has to be narrow because humans are bipedal (also very strong and rigid)
+This means that childbirth can be deadly for humans (combined with selection pressure for larger heads)
+Humans are the only animals that face a significant chance of death during childbirth
+Curved spine also supports bipedalism
+Skull being on top of the spine is also unusual -- most animals have the spine join the back of the skull
+Human eyesight is better than most other animal eyesight, but hearing and sense of smell are worse
+This is probably because our ancestors were arboreal and needed to judge the distance to the next tree or branch
+Hands and arms are designed for manipulating objects
+
+Design is often a compromise between different requirements
+Vertebral column is the main support of the body
+But also needs to be mobile and can't be too heavy
+Vertebrae are often sculpted to maximize strength and minimize weight (neural arch for nerve protection)
+
+Fish never had to worry about fighting gravity, so their vertebrae are just solid disks to provide as much strength as possible
+Whales had land ancestors, so their vertebrae are very different than fish because they once had to worry about minimizing weight
+
+Sauropod vertebrae (necks) had lots of gas-filled pleurosils to help support and keep the neck up
+All sauropod bones besides the limbs were hollow L
+Limb bones are often 'pipe-like' to lighten load while maintaining strength
+Pipes are harder to bend than solid rods
+Size can override this -- Sauropod legs lack marrow cavities because they had to support such a massive weight
+
+Mammals and dinosaurs arose at the same time, so why did dinosaurs dominate?
+Earliest dinosaur for now is Nyasasaurus (new fossils found and dinosaur definition changes)
+Within 25 MY of Nyasasaurus, global disperal of dinosaurs -- range in length from 1m to 11m, from 6% of terrestrial amniotes to 60%
+
+Was success due to skill or luck?
+Luck:
+	Late Triassic mass extinction cleared away many competitors (like Archosaurs)
+	One of the six largest known mass extinctions, probably tied to volcanism
+	Palisades in New York show evidence of Late Triassic mass extinction
+
+Skill:
+	But did changes in stance and physiology give dinosaurs an edge?
+
+William Buckland: What rules the World? The stomach: the great eat the lesser and the lesser eat the lesser still
+Buckland thought dinosaur evolution based on different ways of getting or processing food
+
+Changes in Stance:
+	Dinosaur line was one of the first to achieve an erect stance (meaning the limbs are directly underneath the body, not 2 vs. 4 limbs)
+	Sprawling stance: What crocodiles and alligators have
+	Semi-sprawled stance: All early mammals had this, platypuses have it today
+	Erect: Dinosaurs
+
+Lizards, although they're fast, have to twist their body from side to side while they run because of their sprawled stance
+But they can't breath while they run due to the twisting, so they have to stop to breathe
+Erect stance: up and down motion of the spine helps expand and contract the lungs
+
+Most modern mammals have erect stance
+Dinosaurs' early development of the erect stance gave them a huge advantage -- endurance
+
+Dinosaurs and humans are the only bipedal lines in Earth's history, which also gave dinosaurs a huge advantage
+Having two free limbs can go a long way in predation
+Bipedal stance frees up the forelimbs to do stuff other than running (tool use, flying like in birds)
+Humans have an S-shaped spine in order to handle bipedal life
+
+Why did bipedalism evolve if it made childbirth more difficult? Tool use and other benefits offset the cost
+Dinosaur tails were really solid and helped balance their weight over their hips
+As humans bend over, their hips go back in order to keep weight balanced over their feet
+Ostriches don't have long tails, and it looks like their knee is 'backwards'
+But that's actually the ostrich's ankle, and its knee much further up its leg
+It only runs with the lower part of its leg and its body weight is balanced on its knee rather than its hip
+Theropod dinosaurs had the advantage of a long tail, meaning they could make use of their full legs to run
+
+Length of upper leg determines speed of rotation -- longer the upper limb, slower the rotation
+Length of lower leg affects length of stride
+What you want is a short upper bone, long lower bone, and extended ankles -- not human legs!
+Human legs are designed for endurance and not speed
+The only large animal that's slower than a human is a sloth
+
+Foot designs
+Plantigrade: walking on the bottoms of feet (humans, bears, squirrels) helps with stability
+	Humans probably have these because arboreal ancestors needed stability when moving through treesf
+
+Digitigrade: walking on digits (cats, dogs)
+	When you're in high heels, you're forced to be in a digitigrade stance. Theropod dinosaurs did it for speed
+	Some dinosaurs made it to semi-digitigrade stances (stegosaurs, ceratopsians), but they never made it to plantigrade stance
+
+Unguligrade: walking on tips of toes (horses); elephants are near-unguligrade. This adaptation is for running very fast or for having lots of mass (stress)
+	Sauropods were sub-unguligrade (just like elephants and rhinos) -- better design for handling stress of carrying large body mass, extends length of leg for 	more speed
+
+	Horses really only have one main digit left (two vestigial), and they run on the nail of that digit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

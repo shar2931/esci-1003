@@ -1,0 +1,282 @@
+Mar. 11, 2024
+Benefits of Being Big
+
+Protection -- modern predators usually only prey on smaller animals (up to a maximum of a few times their size)
+Resources -- big animals can feed on low nutrient plants or different plants
+ecological separation from competing species
+pound-per-pound, large animals can use resources more efficiently than small ones
+
+Elephant vs. Shrew
+roughly same body temperature, but elephant heart beats 20-30 times/min vs. 1200/min for shrew
+in relation to its size, shrew's heart is 3x size of race horse
+elephant eats 295 kg of food per day (4% of body weight)
+shrew weighs 3 grams, but needs 4 grams of food per day
+shrew eats animal tissue (insects) so it has much higher nutrition value than elephant food
+
+Paraceratherium (34-23 MYA): extinct giant rhino, probably the biggest land mammal ever
+
+Earliest sauropods similar to basal sauropodomorphs ('prosauropods')
+Generally tend to be larger -- obligatory quadrupeds, compared to basal sauropodomorphs which could be bipedal even in adult form
+Basal sauropods were short-necked, generally unspecialized forms
+Followed by neosauropodeans, of which there were two main clades
+
+Dipolodocids (ex. Diplodocus, up to 30m long)
+Long neck (15 vertebrae)
+Pronounced cleft in vertebrae which held a large ligament running from the neck down to the tail (used for support)
+Older idea of horizontal neck is probably incorrect, but it could bend its neck down for feeding
+Long slender skull, with simple peg-like teeth at front of jaw to rake vegetation in
+Nasal opening at top of skull
+Variations do occur such as Nigersaurus, which was a low browser, and Brachytrachelopan, which had a short neck
+Brontosaurus ('thunder lizard') so named by Marsh due to his respect for Lakota traditions ('thunder-beast', 'thunder-bird')
+Confusion over its lost skull (Camarasaurus skull put on Brontosaurus body) led to the Brontosaurus name being dismissed and the animal called Apatosaurus
+Now, Brontosaurus is back to being its own name (part of Apatosaurus clade)
+
+Macronarians (ex. Camarasaurus, although alternate schemes exist)
+Shorter neck (12 vertebrae)
+Shorter tail (only 56 vertebrae)
+Rounded skull with large openings, spoon-shaped teeth for slicing off vegetation
+Brachiosaurus -- forelimbs longer than rear limbs
+Neck vertebrae without cleft and short tail (longer arms mean that counter-balance from tail isn't needed as much, weight and neck balanced on forelimbs)
+Stance similar to modern giraffes
+
+Titanosaurs (most in Cretaceous, mostly in Southern continents)
+Alamosaurus made it into N. America just before end of Cretaceous
+Sauroposeidon may have been 18m tall (60 feet)
+Dreadnaughtus was 26m long and weighted 60 metric tons
+Titanosaur hands not only lacked claws but digits as well -- walked on metatarsals
+Some titanosaurs like Saltasaurus added osteoderms to the mix of sauropod features
+Not for armor, but instead where they may have been storing the calcium which went into egg shells
+
+Although all sauropods shared a similar plan, their variations were important
+Differentiation of resources allowed different lines to co-exist
+
+Dipolodocus vs. Camarasaurus
+Dipolodocus
+each tooth had 5 developing replacement teeth, each tooth replaced every month, heavy wear pattern suggests grit mixed in with plant food
+suggests low-browsing behavior
+
+Camarasaurus
+larger teeth, 3 replacement teeth, teeth replaced every two months, light wear pattern suggests little grit
+suggests high-browsing behavior
+
+Nigersaurus, one of the sauropods most adapted for low-browsing, had 9 replacement teeth
+Low-browsing sauropods could graze a big area without moving their body
+
+Dipolodocids may have been able to rear up because they balanced on their rear legs
+Highly unlikely that brachiosaurus and titanosaurs could do this
+
+Some sauropods (low browsers?) traveled in mixed-age herds
+Others (high browsers?) traveled in age-specific herds; niche-partitioning within age groups of the same species
+
+Impacts on the environment -- elephants vs. sauropods
+Elephants are good diggers, can dig for groundwater or salt deposits; Other animals rely on the elephants for these resources
+Sauropod feet have claws and we know they dug nests, so they may have also done this
+
+Savannah landscape is largely maintained by elephants and other herd animals
+Feed on tree saplings and shrubs, helping to keep the plains open as grazing habitats for other grassland species
+Without grazing, savannah would become scrublands and then woodlands
+Sauropods would have had the same impact on their environment
+
+Elephants create gaps in dense woodlands that lead to the growth of other plants, which in turn provide food for other species and pathways for other animals
+Sauropods would have done the same -- big size means they would have disturbed habitats
+
+Elephants feeding on high trees dislodge seeds that are valuable food sources for other animals
+Sauropods would have done the same
+
+Elephants are the most effective seed distributor in African forests
+They eat and disperse so many intact seeds, and can carry them to such great distances (tens of kilometers vs. meters for other seed eaters)
+Only animals that are large enough to dispere some big seeds
+Sauropods would be doing the same thing
+They must have been long-distance migrators because of they stayed in one place, they would quickly run out of resources
+Oxygen isotope ratios of enamel layers in Camarasaurus teeth show that herds migrated at least 300km between basin and highland areas
+
+Most of the seeds dispersed by elephants are deposited in dung, a really rich fertilizer because elephants only digest 50% of what they eat
+Elephant dung is important for maintaining nutrient-rich soils and is a food source and habitat for other animals (insects and insect eaters)
+Would've been no different for sauropods
+
+While the basal sauropodomorphs were the first high browsers capable of transforming terrestrial ecosystems, sauropod herds took this even farther
+First large-animal herds, first long distance migrations, and first efficient large seed transporters -- all due to large size
+
+Due to large size, people originally assumed that sauropods were aquatic
+Water pressure would likely prevent an aquatic lifestyle -- ribs couldn't expand 30 feet under water
+
+Roland Thaxter Bird did a lot of work with dinosaur trackways, and he was the one who realized that they travel in herds and they were terrestrial
+Were sauropods really warm-blooded? 
+Elephants spend up to 75% of their day eating, so how could a larger animal survive?
+Rapid growth rates suggests a non-ectothermic physiology
+Paraceratherium was the same size as some sauropods and it was warm-blooded
+
+Dinosaur National Monument was founded by Louisa Carnegie
+Andrew Carnegie wanted to find the biggest dinosaur for his wife Louisa
+Apatosaurus louisia and Diplodocus carnegii named for them
+
+#############################################################################################################################################################
+Mar. 13, 2024
+Stegosaurs
+Part of Thyreophora (along with ankylosaurs)
+Scales -> Scutes -> Osteoderms
+Osteoderms can be used for armor, but they're also used for structure (like in crocodiles where muscle attaches to them)
+Osteoderms are highly vascularized; for crocodiles, they also help to neutralize acidification of body fluids due to being underwater for long periods of time
+
+For stegosaurs, osteoderms are used for armor, display, and social competition
+Size, speed, and herds are big defenses against predators
+Thyreophores also have weapons for defense
+Tail weapons were unusual (although some sauropods like Shunosaurus had a tail club)
+Hylaeosaurus, found by Gideon Mantell, was the third dinosaur to be recognized
+Thyreophora was the first subdivision of Owen's Dinosauria
+Underside of stegosaurs' necks have osteoderms
+
+All Thyreophora tend to be squat forms with short legs relative to the body
+Nearly all were obligate quadrupeds; however, body design reflects traces of bipedal ancestry
+Back legs are much longer than the front legs, and they have long tails
+
+Stegosauria
+Many older texts refer to stegosaur extinction at end of Jurassic, but this is only true in N. America
+First stegosaurs described are from the Early Cretaceous
+Few were well documented until recently
+Huayangosaurus (Middle Jurassic) is the earliest-known stegosaur; half of known stegosaurs are from China
+
+Huayangosaurus vs. Stegosaurus
+Shorter skull vs. slender long skull
+Premaxillary teeth in upper jaw vs. development of beak
+Forelimbs same size as rear vs. forelimbs shorter than rear
+Rear limbs could run vs. rear limbs not designed for running
+Tail had some ossified tendons vs. tail completely flexible, hip bones flatter, front of pubic bone extended
+4.5m long vs. 9m long
+
+Huayangosaurus still has some ancestral traits (osteoderms and a tail club)
+It had plates and spikes running down its back and a thagomizer
+Stegosaurus tail nearly horizontal
+Non-bilateral symmetry is rare in animals
+No evidence of herding (bonebeds or tracks)
+
+Allosaurus caudal vertebrae with spike-shaped hole and Stegosaurus neck plate with U-shaped hole that fits Allosaurus jaw
+10% of tail spike tips are broken
+Skull has recessed area for cheek-equivalent structures -- some processing of food within mouth
+Mouth also has a hard palate
+
+Stegosaurus is the namesake but not the most typical Stegosaur
+Doesn't have the typical shoulder spikes, and it has unpaired plates
+Stegosaur decline could be linked to competition from ankylosaurs or extinction of cycad plants
+
+#######################################################################################################################
+Mar. 15, 2024
+Fossil record is better during periods of high sea level -- more deposition
+Soil erosion affects plants which affects the whole fossil record
+Also affects stream flow, groundwater levels, and temperature of water systems (bare ground is more easily heated)
+Right now, we are in a period of relatively high sea level
+Despite this, soil erosion is reaching record rates (unnatural)
+Deforestation -- forests and plants cover and stabilize land surfaces, allowing rest of plant communities to thrive
+This leads to more flooding and sediment being washed out to sea, which increases coastal wetlands (which comes at expense of interior ecosystems)
+
+Battle of Thermopylae site under 20 meters of sediment which extends 5km to the sea
+Wind desiccation -- without trees, wind causes springs, streams, and wells to run dry
+Deforestation generally starts along rivers because it's easier to move logs that way -- fragmentation of forests maximizes impacts on biodiversity
+Once Greek forests were gone, goat herding prevented their return because goats could survive on a largely denuded landscape
+Deforestation of mountain slopes can lead to increased soil loss and runoff -- lower groundwater table
+Deforestation of low lying areas can lead to increased transpiration -- higher groundwater table
+
+First major flood of the Tiber was noted in 241 BCE, and records indicate increased flooding from that time onward
+With wetlands and floods came mosquitos and malaria
+Few forests were left in Mediterranean area after Roman expansion, and much of its former top-soil now lies on the seafloor
+20x increase in soil erosion in 3rd century; harbors and ports filled while coastlines were pushed out into sea
+
+##########################################################################################################################################################
+Mar. 18, 2024
+Ankylosauria -- other half of Thyreophora
+Scelidosaurus is the closest thing we have to an ancestral form of both stegosauria and ankylosauria
+Scelidosaurus had extensive armor and layers of added skull bone similar to Ankylosaurus (but skull and hips similar to Stegosaurus)
+
+Ankylosauria
+Arose in Early Jurassic (until 2022, thought to be Middle Jurassic) in China
+Suggests a rapid diversification because they quickly spread to N. America
+Last few back vertebrae and sacral vertebrae fused to hip
+Huge horizontal ilium for powerful leg and tail muscles
+Short limbs to carry weight or armored body and brings unarmored belly close to ground
+Hands fulled adapted for weight-bearing
+Body armor consists of large osteoderms embedded in flesh, with smaller ones in between (gravel to pea-sized)
+Osteoderms are seldom preserved in place, so their pattern and distribution is uncertain
+Design of body plating still allows for flexibility and movement
+
+Pangolin -- despite being heavily armored, it can curl into a tight ball
+Works well with pangolins' natural predators
+Ankylosaurs are sort of a scaled-up pangolin with spikes
+As body flexed, spikes along sides may have had scissor-motion that would deter predators (like getting a hand caught in gears)
+
+Nodosaurs are one group of ankylosauria
+Like stegosaurus, teeth are small and simple
+Deeply inset to give space for cheek-equivalent structures
+Large throat bones suggest long mobile tongues
+Like stegosaurs, hard palate separated nasal and mouth cavities (can chew and breathe at same time)
+Borealopelta markmitchelli -- Nodosaur found in oil sands mine in Alberta
+Nodosaur head less armored and contains fewer large scutes
+More extensive body armor, lateral spikes common, tail consists of up to 40 vertebrae, no tail club
+
+Ankylosaurs are the other group
+Lateral spikes less common, clubbed tail with roughly 20 vertebrae (not a thagomizer)
+Reinforced tail at the end, flexible at the hip with wide lateral processes
+Flexible armor in bands (more aggressive defense?)
+
+Big weakness for theropods is that they only have 2 legs to walk on -- particularly vulnerable to leg injuries
+These tail clubs are very good at hitting legs
+Like stegosaurs, no evidence of herding (probably individuals or small family groups)
+The only exception is a dozen juvenile ankylosaurs found together (Pinacosaurus)
+
+Nodosaurs have narrow muzzles, ankylosaurs broad (similar to white (wide) vs. black rhinos)
+Nodosaurs had large, forward facing nasal passages
+Ankylosaurs had side facing nares with some of the most cmoplex nasal passages of any dinosaur group
+
+There are very few animals with weaponized tails
+
+###################################################################################################################################################################
+Mar. 20, 2024
+
+Marginocephalians (Ceratopsians and Pachycephalosaurs); part of Cerapoda (Marginocephalians and Ornithopods)
+Arose in Eurasia
+Both characterized by enlarged posterior 'margin' of skull
+In Pachycephalosaurs, top of skull thickened
+In Certopsians, margin enlarged into frill
+Features originally interpreted as defense, but now considered part of social display
+
+Pachycephalosaurs range from very small forms up to 4.5m long Pachycephalosaurus
+Dominantly Late Cretaceous, exclusively in the northern continents (which at this point are completely separate from the southern continents)
+Originally thought to have arisen in eastern Eurasia, but now the most basal members of the group seem to be from N. America
+Used to be divided into 'flat-heads' (Homocephaloidea) and 'dome-heads' (Pachycephaloidea)
+But recent work suggests that most flat-heads were juvenile forms of dome-heads
+Dracorex
+Despite their enlarged heads, they have relatively small brains (poor taphonomy for these animals in general)
+Large eyes and optic nerve, unusually large olfactory lobes (good eyesight and smell)
+No beak on top, still has canines in front; row of small inset cheek teeth crowned by ridges
+Recessed areas along jaw and differences in tooth shape suggest some processing of food in mouth
+Bulky torso with expanded gut area and broad hips
+Short forelimbs, long legs, short thick neck, and long tail; really strong hip
+Low browser, but didn't eat anything particularly tough
+No preserved tracks found, and not very many feet found either
+Low number of finds may reflect population or taphonomy (possibly mountain-dwelling)
+But describing them as mountain-dwelling may simply be due to early analogy with bighorn sheep, without any real evidence beyond that
+Modifications of skulls, neck joint, and back vertebrae might have allowed skull to be used as weapon or in intra-species competition
+Only dinosaur group to have neck opening at botttom of skull
+Many animals today that lock horns have curved horns or ornamentation to lessen stresses
+Pachycephalosaurs had no protection on the skull -- why would they have headbutted if its likely that one of them dies?
+Most egg-laying animals do not have harems
+Pachycephalosaur skulls may have been used for flank-butting, not head-butting (safer for both animals)
+Would fit with wide stance and large hips
+Could have also been used for grinding contents (like bison)
+>20% of domed skulls have lesions that look like infections from traumatic skin injuries
+Also supports the idea that flat-heads are juvenile dome-head
+Stygimoloch
+
+
+Early Ceratopsian: Yinlong (found in China)
+Relatively small dinosaur (about the size of a small dog)
+Despite the lack of frills, horns, or a beak, Yinlong was a ceratopsian
+Deep wide skull for its body size and rostal bone
+Has some pachycephalosaur traits, but it is a basal ceratopsian
+
+
+
+
+
+
+
+

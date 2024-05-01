@@ -1,0 +1,258 @@
+Jan. 19, 2024
+Zhu Xi(1200) and da Vinci (1400s) recognized fossilized shells as remains of past life
+Wasn't until 1660s that this was a widely accepted idea in Western society
+
+Early 1600s: Cosimo II de Medici patronized Galileo. His son Ferdinando II was a scientist himself, came up with the idea of a sealed mercury thermometer.
+Niels Stensen / Nicolaus Stenonis / Nicolas Steno arrived in the Medici court to see the head of a dead great white shark and dissects it
+Recognized that the shark teeth were the same as glossopetrae (even though the glossopetrae were much bigger than the great white teeth he saw)
+50 years earlier, Fabio Colonna also arrived at this conclusion. But Steno thought about how solid teeth could've made it into solid rock
+Rock must've not been solid when the tooth entered it -- it must've been sediment, and what was now land was once seafloor
+
+Steno wrote a lengthy work on this topic, going where people hadn't gone before -- "Prodomus"
+	recognized nature of sedimentary rocks
+	characteristics could be used to infer their original depositional environments
+	layers were deposited in sequences -- principle of superposition (time could be inferred from geometry)
+	layers were originally horizontal and continuous -- deformed layers indicated geological events
+	recognized difference between unaltered and altered and replaced fossils	
+
+Steno's Prodomus had a major impact on especially British scientists -- but two years after he had published it, Steno recanted it
+Steno saw that a lot of time was needed in order for all these fossils were formed -- caught between that observation and Catholic beliefs on the age of the Earth
+But it was already published, and his recantation didn't really affect things. He became a Catholic bishop though
+
+Steno's work is six years newer than Hooke's discovery of "cells" and three/four years newer than calculus and Newtonian gravity
+Steno got lucky that he was working with sedimentary rocks that he was somewhat familiar with, and that the fossils he was seeing were similar to living forms
+Nature of igneous rocks wouldn't be recognized for another 130 years
+
+##################################################################################################################################################################
+
+Jan. 22, 2024
+Many cultures' legends of dragons stem from finding fossils and bones
+
+Robert Hooke was the first to argue for extinction -- ammonite fossils were once widespread but then disappeared
+Argued extinction could be used to create a time framework, just like Roman coins could date archealogical sites
+1780: Maastricht specimen of Mosasaur jaws found in chalk deposits excited people
+Taken to Paris by Napoleon and hasn't been returned
+1799: Jaws identified as a repitle, confirmed by Georges Cuvier in 1808
+
+Widespread acceptance of extinction only came by way of mammoths and mastodons
+Big Bone Lick -- mineral lick near Ohio, where tusks and teeth and bones were found
+1749: First widespread report of mastodons (called the Ohio animal)
+1807: Thomas Jefferson thought the Ohio animal was still alive because he had mastodon teeth brought back by Clark. Thought it was a carnivore because of sharp teeth
+1806: Cuvier, student of Lamarck, named the Ohio animal "mastodon"
+1804: Russian merchant discovered a large frozen animal in the ice -- Adams mammoth
+1812: Cuvier added mammoths, mastodons, and 47 other animals to his list of extinct animals
+Early objections to extinction shifted from religious to philosophical (which is why Jefferson thought mastodons were still alive)
+
+Mastodons and mammoths convinced people of extinction because they were land animals, and land had been well-explored (except for W. North America)
+
+Early dino discoveries (Megalosaurus and Iguanadon)
+First dino bone found in Western Europe that was publicized was by Rev. Robert Plot in Oxford
+Partial femur of Megalosaurus, but nobody thought that at the time -- Plot assumed it was a Roman elephant from Claudius's invasion because of 23 inch circumference
+Others thought they were Biblical giants
+1763: Robert Brooke re-interepreted find and named it "Scrotum humanum"
+Oddly enough, the second dinosaur ever found was also a Megalosaurus -- first European recognition of a large extinct land reptile
+Discoverer (Buckland) could tell it came from a reptile due to partial fossil jaw showing signs of continual teeth replacement, a reptilian trait
+Charles Dickens mentions Megalosaurus at the start of Bleak House -- they thought it was like a big lizard
+Buckland also named coprolites and worked on marine reptiles, but his co-operator Mary Ahne (?) did a lot of the work
+They also found tropical hyenas in an English cave -- first recognition of climate change
+
+But how did they know that they were hyenas? Buckland had a pet bear named Tiglath-Pileser that was dressed up in academic robes and liked to drink, and also a pet hyena named Billy, so he knew what hyena chewed bones looked like.
+
+1823: Gideon Mantell (but actually his wife Mary Ann Woodhouse) found Iguanadon tooth
+Cuvier thought it came from a fossil rhino, but realized they came from an extinct giant herbivorous reptile (something that doesn't exist today)
+Mantell thought the teeth looked similar to iguana teeth. 
+Maidstone slab showed a bunch more iguanadon fossils
+Mantell also found a third dinosaur -- later identified as Hylaeosaurus -- that seemed to have big spikes
+The pictures of dinosaurs back then didn't come from fossil evidence -- but instead came from the social nature of science
+
+#####################################################################################################################################################################
+
+Jan. 24, 2024
+Social Nature of Science and How They Viewed Dinos
+Mantell interpreted Iguanadon as a scaled up lizard because he associated it with iguanas, but he didn't know what to do with the fossil horn he found
+Thought it was 20 to 60 meters long
+Richard Owen was jealous of Mantell -- took Owen's Iguanadon and turned it into basically a prehistoric rhino and destroyed his reputation
+Owen had made his reputation predicting the existence of the moa from a single bone fragment
+1842: Owen came up with name "dinosaur" and separated them on basis of fused sacral vertebrae seen in both Iguanadon and Megalosaurus
+But Owen never found any dinosaurs
+This is no longer used to identify dinosaurs because that is simply characteristic of large animals.
+Owen had no real evidence to interpret Iguanadon as a large scaled mammal rather than a lizard -- he had the same bones as Mantell did
+The difference comes from the analogies the two different people had in their minds. Mantell was thinking of reptiles and Owen of mammals
+
+Steno couldn't reconcile the time scale he got from looking at rock strata with his religious beliefs, causing him to walk away from science
+French Rev.: extinction became a political idea, and evolution became synonymous with "progress" (of society as well)
+This is why Napoleon / French revolutionaries became so attached to the Maastricht mosasaur -- helped challenge the King's divine appointment
+If God didn't care enough to stop mosasaur from going extinct, why would he care who's king?
+Cuvier called mass extinctions "revolutions"
+Owen proposed dinosaurs to disprove evolution -- in Britain, evolution became tied to idea that British society would evolve from a monarchy to a democracy
+By showing that mammal-like reptiles had existed in the past, he could show that the reptile line had already peaked and therefore evolution didn't occur
+Even things like the metric system are influenced by politics -- developed during French rev. to move away from imperial units
+
+First North American dino with front and rear limbs preserved was found in New Jersey
+Front legs were much smaller than the back legs, contrary to Mantell's and Owen's interpretations
+Dinos were reinterpreted to be posed like kangaroos
+1877-78: 31 complete Iguanadon skeletons found in a mine in Belgium (last major European dinosaur find)
+Full skeletons showed that Iguanadon "horn" was actually a thumb spike
+But even American kangaroo analogy had some problems -- tail was actually immobile, and people who posed the Belgian skeletons in museums had to break the tails in order to make the bones stand like how they interpreted them to be (kangaroo-like)
+The only thing that's different about our modern intrepretation is our analogy (all fours), which was confirmed by preserved tracks
+
+Golden Age of Dinosaurs was in the American West because of great exposures, little vegetation, societal interest in looking for dinos, railroads, etc.
+Bone Wars: Cope and Marsh -- friends to big rivals
+Elasmosaurus: Cope thought it had a long tail and short neck, and Marsh thought vice versa. 
+Marsh also made mistakes -- thought Triceratops was a bison
+They made the most of the other's mistakes
+Bone Wars spilled out into the public and newspapers due to politics
+USGS under Powell argued for limited western development due to limited water resources, but western politicians hated this idea 
+Marsh was buds with Powell, but Cope revealed in the newspapers that USGS members were the ones tasked with evaluating the value of the USGS
+Bone Wars led from 9 partial remains to 145 nearly complete skeletons
+
+Dinosaur researched waned between 1920s and 1970s (racism one cause)
+Nowadays dinosaur research has moved past just Europe and North America 
+
+#################################################################################################################################################################
+
+Jan. 26, 2024
+Linnaean classification -- overall similarity
+Cladistics -- relationships regardless of similarity (almost completely replaced Linnaean)
+In Linnaean system, birds were separate due to having feathers and warm-blood
+By cladistics, birds (and mammals!) should be included in the reptiles -- every fish descendant should be a reptile
+
+Cuvier founded vertebrate paleontology and established concept of extinction, as well as recognized mass extinction
+Created comparative method of organismal biology -- outspoken opponent of evolution (not bc of politics or religion)
+Opposed to evolution on scientific grounds -- thought each species was so well coordinated functionally and structurally that it could not survive significant change
+Cuvier dissected Egyptian animal mummies and found that they were identical to living forms
+Cuvier died of cholera
+
+Where did cholera originate? No mentions of cholera anywhere in history until the 1800s
+Cholera lives naturally in marine copepod eggs
+Vibrio cholerae recycle 90% of chitin from shed copepod skeletons to the water ecosystem
+Thrive in warm brackish coastal waters in the Sundarbans
+Daily tides in Sundarbans can push water up to 800km inland
+Once cholera got in contact with humans, it developed a tail and toxins that reverse normal gut processes
+Water and electrolytes get pulled from body tissue -- flushes competitor bacteria away and lets cholera move to other victims
+3-5 gallons of fluid lost per day
+
+Cholera was localized to Bay of Bengal coastlands until British colonialism
+By 1810s, 2100km^2 of forest cut down, and people spread out over 90% of the copepod-rich Sundarbans
+Cholera kills so quickly that it needs a big crowd to spread -- and a spark
+Eruption of Mount Tambora spread aerosols across the entire world
+Cooler temperatures upset monsoons, causing drought and reduced river flow. Copepod-rich waters reached further inland
+
+August 1817: Drought broke and heavy rain occurred, brackish water floods over farms, homes, and wells. First cholera epidemic starts
+First cholera pandemic appeared to die out in winter of 1823-24, but may have lingered in Indonesia and Philippines until 1830
+But cholera never disappeared from the Bay of Bengal
+Faster ships increased the speed with which cholera could spread
+Iron hulls allowed cholera bacteria to colonize other coastlines via ship ballast water
+
+Cholera spreads through infected excrement -- until recently in the developed world, this was really easy to do through infected water and food contamination
+Even in Benjamin Franklin's house, the outhouse pit was a meter away from the water well
+Even though they were at different depths, contamination was bound to occur
+In densely packed 1800s cities, there was little separation of sewage and water
+
+Second and third cholera pandemics killed millions of people around the world (Masque of the Red Death)
+People had no idea what caused cholera -- miasma theory held that breathing "bad air" caused disease
+There were numerous clues that cholera was linked to water -- for example, when it spread along the Erie Canal from Montreal to New York
+But people still couldn't see it. Thought bad smell of immigrants and poor people were causing cholera
+
+Cure to cholera involves drinking tons of clean water -- up to 10% of a person's body weight in the first couple hours
+Saline rehydration cut mortality rates from 60% to 1%
+First tested by Dr. William Stevens at Coldbath Fields Prison
+But as a Virgin Islands physician his work wasn't accepted by British medical establishment (and they argued the prisoners couldn't have had cholera if they lived)
+
+1854 London cholera outbreak: John Snow traced 500 deaths in 10 days to a single water pump
+Not a single person in a poor-house died of cholera because they had their own well -- debunked theory of poor causing cholera
+Not a single brewery worker died of cholera -- they brought buckets of beer home instead of using water from the pump
+Nearly every person who died of cholera in 1.5mi radius could be traced back to the single pump
+John Snow and local minister just removed pump handle, and people stopped dying of cholera
+
+But this didn't make a difference. People knew that their rivers were filled with excrement but still thought it was the bad smell that was causing cholera
+Eventually London and New York revamped their water and sewer systems (to get rid of the smell and to brew better beer), which inadvertently ended cholera in those cities
+
+1892: Hamburg cholera outbreak led to acceptance of cholera's water tie
+western suburb of Altona filtered water while Hamburg did not, and everyone who died lived in areas of non-filtered water
+Fear of cholera led to development of modern sanitation systems, which make modern cities possible
+Cholera only affects humans, which is part of the reason why it took so long to recognize that cholera is water-borne
+
+Seventh cholera pandemic began in 1961 and is still ongoing
+Death rates are much lower, but still affects millions of people a year
+Outbreaks are still not reported due to fears of its impact on tourism (perhaps only 1% of deaths are reported)
+
+Cholera began with a combination of natural and human factors (copepods, East India Company, Mt. Tambora, iron ships, social theories of disease, fear of immigrants)
+
+################################################################################################################################################################
+
+Jan. 29, 2024
+Dinosaurs were originally depicted as dynamic animals but became dumb, slow, and stupid over time
+"Scientific racism" attempted to use things that seemed scientific in order to explain how white men were a genetically superior race
+Brain/skull size was a popular method within scientific racism
+
+They even went so far to propose two different species of humans: Homo frontalis (with larger frontal lobes = intelligent) and Homo parietalis (larger parietal lobes = emotional)
+This fell apart when they found that women have larger frontal lobes so they proposed that intelligence was actually in the parietal lobe
+
+Neanderthal skulls were larger than human skulls -- Broca argued that the modern average skull size was brought down by survival of "inferiors" in modern society
+This was all really pseudoscience, proposing theories and evidence to fit predetermined notions
+St. Patrick's day grew as an Irish response to prejudice (scientific racists described Irish as ape-like, etc.)
+
+#################################################################################################################################################################
+
+Jan. 31, 2024
+Geological subperiods:
+Rocks: Lower -> Middle -> Upper
+Time: Early -> Middle -> Late
+
+Nyasasaurus - Earliest dinosaur as of now, lived in Middle Triassic in Tanzania (240-245 MYA)
+More than twice as much time between Stegosaurus and T. rex than T. rex and today
+
+Minnesota used to have a mountain range that predates the evolution of eyes
+Within the Earth at high temperature, rocks behave in a ductile (but still solid) manner -- but this is NOT magma and it's not liquid or molten
+As heat builds up under continental material, plates move apart and form rift valleys (and eventually new ocean basins)
+This also leads to changes in sea levels over long periods of time, causing changes in Earth's climate
+Convergence leads to oceanic crust being recycled back into the mantle, building terrestrial mountains
+
+By the end of the Paleozoic, the super-continent Pangea had formed
+Mesozoic history was dominated by the break up of Pangea into modern continents
+Plate tectonics are much slower than biological processes, but can involve some threshold events
+Ocean ridges cover 25% of the Earth's surface
+Faster divergence in one place is matched by faster convergence elsewhere
+How quickly new seafloor is created and destroyed does affect the temperature (and volume) of ocean ridges
+Bigger ridges displace more water on to the continents (faster plate motion -> larger oceans)
+
+Banks of Mississippi have Ordovician marine rock
+Fastest rates of global plate motion tend to occur roughly 100 million years after a supercontinent begins to break up (Late Cretaceous for Pangea)
+Slowest rates tend to occur as separated continents collide to form a supercontinent (sea level drops, world becomes cooler)
+Rate of plate motion is also directly proportional to volcanism rates, which affects CO2 and hence climate
+
+Final assembly of Pangea is the last glacial period until 3MYA
+Larger continents = large areas of dry land, which was true in Pangea
+Reptiles do a lot better in arid conditions (waterproof skins, amniotic eggs)
+Seed plants propspered because they reproduced independently of standing water (as opposed to spore plants)
+Single land mass allowed global dispersion of reptiles and dry land mass allowed radiation of lines
+
+In the Jurassic, basically anywhere in the world had theropods, sauropods, and stegosaurs
+As Pangea began to break apart, dinosaurs diversified
+
+Great Permian Extinction
+In the Permian, it seemed as if mammals were primed to take over the world
+96% of marine species and 70% of terrestrial species died out
+Siberian Traps -- massive volcanic eruptions triggered extinctions
+Covered massive area in up to 8km of lava
+Dust clouds and acid aerosols blocked out sunlight, which disrupted photosynthesis and cooled climate dramatically
+Acid rain destroyed land plants, ocean acidification killed phytoplankton
+Europtions also produced tremendous amounts of CO2, which then caused rapid global warming after the initial cooling period
+
+In the last 300KY (until Industrial Revolution), atmospheric CO2 ranged from 200 to 280ppm (now at 422.2ppm)
+During the Permian Exinction, atmospheric CO2 was at over 2000ppm
+83% of all genera and 57% of all families became extinct
+It took over 10 million years for life on Earth to recover
+
+Survivors of mass extinction inherit a world that's largely cleared of competition
+One Cynodont line (Thrinaxodon) survived the Permian extinction, and was the origin of all modern mammals
+Evolutionary bursts or radiations often occur in the wake of mass extinction
+
+Early Mesozoic Physical World
+Rifting of Pangea begins and the Atlantic ocean begins to form, Pacific begins to subduct away
+Rift valley sediments hold earliest dinosaur fossils -- rift valleys in general have great conditions for fossils to form
+More volcanism than modern world -- warmer planet due to plates separating and CO2, and sea level rise
+Dompsairs were part of a larger reptile radiation that included flying and swimming forms
+Turtles, alligators, crocodiles, pterosaurs, and marine reptiles like plesiosaurs arise in the Triassic
+Dinosaurs start to dominate in the Middle Triassic World
